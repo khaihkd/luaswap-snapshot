@@ -83,14 +83,14 @@ export default {
     }
   },
   created() {
-    const domainName = window.location.hostname;
-    if (domains[domainName])
-      return this.$router.push({
-        name: 'proposals',
-        params: {
-          key: domains[domainName]
-        }
-      });
+    // const domainName = window.location.hostname;
+    // if (domains[domainName])
+    //   return this.$router.push({
+    //     name: 'proposals',
+    //     params: {
+    //       key: domains[domainName]
+    //     }
+    //   });
     this.loadFavoriteSpaces();
   }
 };
