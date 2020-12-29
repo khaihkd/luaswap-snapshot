@@ -3,8 +3,8 @@
     "name": "Ethereum Mainnet",
     "chainId": 1,
     "network": "homestead",
-    "rpcUrl": "https://eth-mainnet.alchemyapi.io/v2/rXKbp7PTFm6hcrxU8NL-JGp5RMfRHDwg",
-    "wsUrl": "wss://eth-mainnet.ws.alchemyapi.io/v2/rXKbp7PTFm6hcrxU8NL-JGp5RMfRHDwg",
+    "rpcUrl": "https://wallet.tomochain.com/api/luaswap/rpc",
+    "wsUrl": "wss://mainnet.infura.io/ws/v3/254ce928bb0f4bbca07e5ba88be1b885",
     "explorer": "https://etherscan.io"
   },
   "4": {
